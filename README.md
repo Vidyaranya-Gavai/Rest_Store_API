@@ -1,5 +1,5 @@
 ## Rest_Store_API
-##### ***A RESTful API to handle API requests of a Store App with CRUD (Create, Read, Update, Delete) processes over various models like Users, Products and Orders.***
+##### ***A RESTful API based on the MVC architecture that handles API requests of a Store App with CRUD (Create, Read, Update, Delete) processes over various models like Users, Products and Orders.***
 ##### ***Implemented user authentication and authorization using technologies such as 'Bcrypt' and 'JWT' to ensure smooth conditional routing.***
 
 ## Project Initiation
