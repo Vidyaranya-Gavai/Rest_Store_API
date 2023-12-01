@@ -24,6 +24,15 @@
     5. ```POST /orders/```
     6. ```GET /orders/:id```
     7. ```DELETE /orders/:id```
+  - #### The JWT token provided after user login needs to be added to header of above requests in the following format: <br>
+      | Key | Value     |
+      | :-------- | :------- |
+      | `Authorization`      | Bearer token |
+
+    _For example,_
+    | Key | Value     |
+    | :-------- | :------- |
+    | `Authorization`      |Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R1c2VyQGdtYWlsLmNvbSIsInVzZXJJZCI6IjY1NmEwYjEyOWZkZDlhYjgwZDA0ZDJkNyIsImlhdCI6MTcwMTQ0ODQ3NiwiZXhwIjoxNzAxNDUyMDc2fQ.yid-W7D68-9R1TBzUfXjCuVVNF_lKYZB-jGbiHwbuZQ|
    
 - ### Models
   - #### Users:
