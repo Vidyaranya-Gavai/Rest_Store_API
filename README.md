@@ -27,7 +27,7 @@
   - #### The JWT token provided after user login needs to be added to header of above requests in the following format: <br>
       | Key | Value     |
       | :-------- | :------- |
-      | `Authorization`      | Bearer token |
+      | `Authorization`      | Bearer _token_ |
 
     _For example,_
     | Key | Value     |
