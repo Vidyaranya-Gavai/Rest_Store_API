@@ -2,6 +2,8 @@
 ##### ***A RESTful API based on the MVC architecture that handles API requests of a Store App with CRUD (Create, Read, Update, Delete) processes over various models like Users, Products and Orders.***
 ##### ***Implemented user authentication and authorization using technologies such as 'Bcrypt' and 'JWT' to ensure smooth conditional routing.***
 
+##### <ins>***Skills: NodeJS, ExpressJS, MongoDB***</ins>
+
 ## Project Initiation
 - Run ```npm install``` command in the root directory to install dependencies.
 - Create a '.env' file and write following lines in that file: <br>
